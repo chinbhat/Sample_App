@@ -12,6 +12,7 @@ group :assets do
   gem 'uglifier'
 end
 gem 'jquery-rails'
+gem "actionmailer", "~> 4.0.4"
 group :test do
   gem 'capybara'
 end
